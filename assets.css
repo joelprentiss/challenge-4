@@ -1,0 +1,33 @@
+header{
+    font-family:'Libre Franklin', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    background-color: #703DE3;
+    color:beige;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'Martel', serif;
+
+}
+
+.p{
+    font-family: 'Nunito', sans-serif;  
+}
+
+#right-answer:active{
+    background-color: green;
+}
+
+#wrong-answer:active{
+    background-color: red;
+}
+
+#start-test:active{
+    background-color: green;
+}

@@ -20,11 +20,11 @@ h6{
     font-family: 'Nunito', sans-serif;  
 }
 
-#right-answer:active{
+.right-answer:active{
     background-color: green;
 }
 
-#wrong-answer:active{
+.wrong-answer:active{
     background-color: red;
 }
 
